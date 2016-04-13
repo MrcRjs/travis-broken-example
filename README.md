@@ -1,3 +1,3 @@
-# travis-broken-example
+# Ejemplo de *Test* en PHP con Travis
 
-An example that will cause a build failure
+Un ejemplo que causará que la build falle
